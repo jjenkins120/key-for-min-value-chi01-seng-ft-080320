@@ -11,7 +11,7 @@ def key_for_min_value(hash)
     end
 end
 
-puts key_for_min_value(ikea)
+key_for_min_value(hash)
 
 
 
